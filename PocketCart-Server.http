@@ -1,0 +1,6 @@
+@PocketCart_Server_HostAddress = http://localhost:5038
+
+GET {{PocketCart_Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
